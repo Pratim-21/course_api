@@ -5,7 +5,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import javax.annotation.processing.Generated;
 import javax.persistence.Entity;
 import javax.persistence.Id;
-
+//tumra pappa ka topics
 @Entity
 public class Topics {
     @Id
